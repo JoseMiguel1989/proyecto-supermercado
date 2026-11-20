@@ -20,7 +20,7 @@ board1
 - **Notebook de análisis (P5):** [Abrir notebook en Colab](TU_ENLACE_DE_COLAB) · [Archivo en el repo](notebooks/P5_analisis.ipynb)
 - **Resumen ejecutivo de una página (P6):** [Ver Resumen_P6.pdf](docs/Resumen_P6.pdf)
 - **Consultas SQL (P3):** [Ver consultas.sql](sql/consultas.sql)
-- **Datos limpios (P2):** [Ver supermercado_limpio.csv](data/supermercado_limpio.csv)
+- **Datos limpios (P2):** [Ver supermercado.csv](data/supermercado.csv)
 
 ## Herramientas utilizadas
 - **SQLite** (tabla `supermercado` y consultas de validación/agregación)
