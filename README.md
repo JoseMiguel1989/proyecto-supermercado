@@ -15,7 +15,8 @@ El proyecto integra limpieza y validación de datos, consultas SQL, análisis es
 ![Dashboard interactivo de ventas del supermercado](img/dashboard.png)
 
 ## Enlaces del proyecto
-- **Dashboard interactivo (Tableau Public):** [Ver dashboard en Tableau Public](TU_ENLACE_DE_TABLEAU_PUBLIC)
+- **Dashboard interactivo (Tableau Public):** https://public.tableau.com/app/profile/jose.miguel.almonte.solis/viz/P4_17951180366960/Dash
+board1
 - **Notebook de análisis (P5):** [Abrir notebook en Colab](TU_ENLACE_DE_COLAB) · [Archivo en el repo](notebooks/P5_analisis.ipynb)
 - **Resumen ejecutivo de una página (P6):** [Ver Resumen_P6.pdf](docs/Resumen_P6.pdf)
 - **Consultas SQL (P3):** [Ver consultas.sql](sql/consultas.sql)
